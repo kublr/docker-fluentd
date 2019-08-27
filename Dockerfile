@@ -1,4 +1,4 @@
-FROM gcr.io/fluentd-elasticsearch/fluentd:v2.6.0
+FROM quay.io/fluentd_elasticsearch/fluentd:v2.7.0
 
 MAINTAINER Kublr Team <contact@kublr.com>
 
